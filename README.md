@@ -32,8 +32,7 @@ Marketplace concept for booking photography sessions where photographers can bid
 
 Built as an early prototype exploring two-sided marketplace dynamics for creative services.
 
-Stack: Next.js • Supabase • Stripe
-
+Stack: **Next.js • Supabase • Stripe**
 
 ---
 
@@ -41,6 +40,15 @@ Stack: Next.js • Supabase • Stripe
 Gaming platform for Marvel Rivals players to generate hero picks and team compositions.
 
 Stack: **Next.js • Supabase • PostgreSQL • Vercel**
+
+---
+
+## Fast-Casual Restaurant Website (Web - 2025)
+Production-quality marketing site for a fast-casual restaurant brand. Data-driven architecture with a single config file powering the full site — menu filtering, daily specials, live hours, delivery integrations, and Google Maps embed.
+
+**[Live Demo →](https://fuego.tuhamiconsulting.com)**
+
+Stack: **Next.js • Tailwind CSS • TypeScript • Vercel**
 
 ---
 
