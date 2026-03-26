@@ -22,6 +22,8 @@ I help founders and small teams ship products faster and turn ideas into real so
 ## CoachFuel (Web & Mobile - 2025)
 Nutrition and fitness SaaS platform designed for coaches to manage clients, meal plans, and progress tracking.
 
+**[Live Demo →](https://coachfuel.app)**
+
 Stack: **Next.js • Supabase • Stripe**
 
 ---
@@ -38,6 +40,8 @@ Stack: **Next.js • Supabase • Stripe**
 
 ## RankForge (Web - 2025)
 Gaming platform for Marvel Rivals players to generate hero picks and team compositions.
+
+**[Live Demo →](https://rankforge.tuhamiconsulting.com)**
 
 Stack: **Next.js • Supabase • PostgreSQL • Vercel**
 
@@ -61,6 +65,8 @@ Marketing site built in **Framer** with integrations including **YouTube API fea
 
 ## Mesa Boxing (Web - 2025)
 Lead generation and booking website for a boxing coach in Arizona.
+
+**[Live Demo →](https://mesaboxing.com)**
 
 Built using **Framer**, integrated with **Cal.com and Stripe**.
 
