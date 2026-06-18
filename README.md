@@ -32,6 +32,21 @@ Stack: **Next.js • Supabase (Postgres + Auth + RLS) • Tailwind CSS • Zod �
 
 ---
 
+## Easy Street Offers
+Embedded PM and technical contributor at a real estate tech startup. Worked directly with the engineering team to improve delivery systems, ship AI-powered features, and build production infrastructure for processing property inventory at scale.
+
+**Key contributions:**
+- Improved engineering velocity through structured delivery processes and clearer prioritization
+- Built and shipped production-ready AI infrastructure for property analysis workflows
+- Drove conversion improvements across core acquisition flows
+- Unlocked access to a significantly larger inventory pipeline through platform improvements
+
+**[Live Demo →](https://easystreetoffers.com)**
+
+Stack: **Next.js • TypeScript • Supabase • Tailwind CSS • OpenAI • Twilio Voice • Retell AI • Upstash (QStash + Workflow + Redis) • Stripe • Google APIs • Vercel**
+
+---
+
 ## CoachFuel
 Nutrition and fitness SaaS platform designed for coaches to manage clients, meal plans, and progress tracking.
 
