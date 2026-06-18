@@ -26,6 +26,8 @@ Internal admin platform built for a real estate cold call team. Agents submit pr
 - Multi-tenant white-label support with API key management
 - Role-based access control for agents, admins, and users
 
+**[Live →](https://leaddavinci.com)**
+
 Stack: **Next.js • Supabase (Postgres + Auth + RLS) • Tailwind CSS • Zod • Vercel**
 
 ---
